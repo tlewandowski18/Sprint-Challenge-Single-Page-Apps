@@ -1,0 +1,17 @@
+.link {
+    padding: 2%;
+    text-decoration: none;
+    border: 2px solid black;
+    color: navy;
+    margin: 0 2%;
+    border-radius: 10px;
+}
+
+input {
+    width: 300px;
+    padding: 1% 2%;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    margin: 2% auto
+}
